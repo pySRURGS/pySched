@@ -5,8 +5,11 @@ A code used to schedule radiology residents for contrast reaction coverage
 python .\pyEvalSched.py -t "C:\Users\sohra\Downloads\pySched\template\AllShiftsTillBlock11.xlsx"
 
 Baby Yoda 13820
+
 Barney Gumble 23815
+
 Bart Simpson 46705
+
 Freeman Lorban 7485
 Homer Simpson 0
 JD Vance 19025
